@@ -1,0 +1,24 @@
+h1 {
+    text-align: right;
+    width: 40%;
+    font-weight: 600;
+    /*text-decoration: overline wavy red;*/
+    text-decoration: underline dashed red;
+    /*text-decoration: line-through dotted red;*/
+    letter-spacing: 10px;
+    font-size: 45px;
+    font-family: Papyrus, serif;
+}
+p {
+    text-align: right;
+    font-weight: lighter;
+    line-height: 2;
+    font-size: 17px;
+    font-family: Futura, Segoe UI;
+
+
+
+}
+a {
+    text-decoration: underline wavy red 1px;
+}
