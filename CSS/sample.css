@@ -1,0 +1,30 @@
+* {
+    color: pink;
+    background-color: papayawhip;
+}
+
+body {
+    background-color: #cfbaf0;
+}
+
+button {
+    font-size: 30px;
+}
+
+h1, h2 {
+    color: #8ecae6;
+}
+
+#signup {
+    background-color: #8ecae6;
+}
+
+span {
+    color: #8eecf5;
+}
+
+.tag {
+    background-color: #b5179e;
+    color: #f1faee;
+    font-size: 15px;
+}
