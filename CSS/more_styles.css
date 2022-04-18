@@ -1,0 +1,8 @@
+h1, h2 {
+    color: olivedrab;
+}
+
+button:hover {
+    background-color: lightpink;
+    font-size: 10px;
+}

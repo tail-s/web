@@ -1,85 +1,93 @@
-* {
-    color: pink;
-    background-color: papayawhip;
-}
+/** {*/
+/*    color: pink;*/
+/*    background-color: papayawhip;*/
+/*}*/
 
-body {
-    background-color: #cfbaf0;
-}
+/*body {*/
+/*    background-color: #cfbaf0;*/
+/*}*/
 
-button {
-    font-size: 30px;
-}
+/*button {*/
+/*    font-size: 30px;*/
+/*}*/
 
-h1, h2 {
-    color: #8ecae6;
-}
+/*h1, h2 {*/
+/*    color: #8ecae6;*/
+/*}*/
 
-#signup {
-    background-color: #8ecae6;
-}
+/*#signup {*/
+/*    background-color: #8ecae6;*/
+/*}*/
 
-span {
-    color: #8eecf5;
-}
+/*span {*/
+/*    color: #8eecf5;*/
+/*}*/
 
-.tag {
-    background-color: #b5179e;
-    color: #f1faee;
-    font-size: 15px;
-}
+/*.tag {*/
+/*    background-color: #b5179e;*/
+/*    color: #f1faee;*/
+/*    font-size: 15px;*/
+/*}*/
 
-section span a {
-    color: blue;
-}
+/*section span a {*/
+/*    color: blue;*/
+/*}*/
 
-.post a {
-    color: red;
-    font-weight: 700;
-}
+/*.post a {*/
+/*    color: red;*/
+/*    font-weight: 700;*/
+/*}*/
 
-footer a {
-    color: greenyellow;
-}
+/*footer a {*/
+/*    color: greenyellow;*/
+/*}*/
 
-input + button {
-    background-color: pink;
-}
+/*input + button {*/
+/*    background-color: pink;*/
+/*}*/
 
-footer > a {
-    color: deepskyblue;
-}
+/*footer > a {*/
+/*    color: deepskyblue;*/
+/*}*/
 
-input[type="password"] {
-    color: greenyellow;
-}
+/*input[type="password"] {*/
+/*    color: greenyellow;*/
+/*}*/
 
-section.post {
+/*section.post {*/
 
-}
+/*}*/
 
-a[href*="google"] {
-    color: magenta;
-}
+/*a[href*="google"] {*/
+/*    color: magenta;*/
+/*}*/
 
-button:hover {
-    color: darkred;
-    background-color: lightblue;
-    text-decoration: underline;
-}
+/*button:hover {*/
+/*    color: darkred;*/
+/*    background-color: lightblue;*/
+/*    text-decoration: underline;*/
+/*}*/
 
-.post button:hover {
-    background-color: black;
-}
+/*.post button:hover {*/
+/*    background-color: black;*/
+/*}*/
 
-.post button:active {
-    background-color: #02c39a;
-}
+/*.post button:active {*/
+/*    background-color: #02c39a;*/
+/*}*/
 
-.post {
-    background-color: #dfe8dc;
-}
+/*.post {*/
+/*    background-color: #dfe8dc;*/
+/*}*/
 
-.post:nth-of-type(2) {
-    background-color: lightblue;
-}
+/*.post:nth-of-type(2n) {*/
+/*    background-color: lightblue;*/
+/*}*/
+
+/*h2::first-letter {*/
+/*    font-size: 50px;*/
+/*}*/
+
+/*p::first-line {*/
+/*    color: purple;*/
+/*}*/
