@@ -28,3 +28,58 @@ span {
     color: #f1faee;
     font-size: 15px;
 }
+
+section span a {
+    color: blue;
+}
+
+.post a {
+    color: red;
+    font-weight: 700;
+}
+
+footer a {
+    color: greenyellow;
+}
+
+input + button {
+    background-color: pink;
+}
+
+footer > a {
+    color: deepskyblue;
+}
+
+input[type="password"] {
+    color: greenyellow;
+}
+
+section.post {
+
+}
+
+a[href*="google"] {
+    color: magenta;
+}
+
+button:hover {
+    color: darkred;
+    background-color: lightblue;
+    text-decoration: underline;
+}
+
+.post button:hover {
+    background-color: black;
+}
+
+.post button:active {
+    background-color: #02c39a;
+}
+
+.post {
+    background-color: #dfe8dc;
+}
+
+.post:nth-of-type(2) {
+    background-color: lightblue;
+}
