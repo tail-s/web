@@ -39,3 +39,12 @@ const msg = `My favorite color is: ${color}` //"My favorite color is: olive gree
 
 const str = `There are ${60 * 60 * 24} seconds in a day`//"There are 86400 seconds in a day"
 
+Math.PI;
+Math.floor(23.999);
+
+const step1 = Math.random();
+const step2 = step1 * 10;
+const step3 = Math.floor(step2);
+const step4 = step3 + 1;
+
+Math.floor(Math.random()*10)+1;
