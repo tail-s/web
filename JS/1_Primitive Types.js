@@ -10,7 +10,7 @@ let numberOfFriends = 1;
 numberOfFriends += 3; //numberOfFriends is now 4
 
 // Variables with const
-const minimumAge = 21; //CANNOT REASSIGN!
+const minimumAge = 21;  //CANNOT REASSIGN!
 
 //Booleans - true or false values
 true;
@@ -22,3 +22,7 @@ let isHappy = true;
 let numberOfChickens = 6; //GOOD
 // NOT THE JS WAY:
 // let number_of_chickens = 6;
+
+
+//var num = 7;
+
